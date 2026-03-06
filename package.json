@@ -26,6 +26,7 @@
   },
   "files": [
     "build",
+    "types",
     "changelog.md",
     "index.html",
     "LICENSE",
